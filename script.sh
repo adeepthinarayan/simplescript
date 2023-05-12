@@ -1,4 +1,4 @@
-echo "***************************Starting the script************************"
+echo "***************************Starting the script**********************"
 mkdir deepthi
 cd deepthi
 touch file1 > "This is my first file"
